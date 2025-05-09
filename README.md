@@ -26,6 +26,8 @@
 
 <a href="https://app.daily.dev/nurnafishahmednobel"><img src="https://api.daily.dev/devcards/v2/VoEXge69hKD8nTuT7xjCT.png?type=default&r=ben" width="356" alt="Nafish Nobel's Dev Card"/></a>
 
+<a href="https://app.daily.dev/nurnafishahmednobel"><img src="https://api.daily.dev/devcards/v2/VoEXge69hKD8nTuT7xjCT.png?type=default&r=gbl" width="356" alt="Nur Nafish Ahmed Nobel's Dev Card"/></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
