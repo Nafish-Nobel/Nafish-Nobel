@@ -2,13 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working as a Full-Stack Web Developer.
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nafish-Nobel/Nafish-Nobel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nafish-Nobel/Nafish-Nobel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nafish-Nobel/Nafish-Nobel/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
