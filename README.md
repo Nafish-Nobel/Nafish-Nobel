@@ -24,7 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=Nafish-Nobel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<a href="https://app.daily.dev/nurnafishahmednobel"><img src="https://api.daily.dev/devcards/v2/VoEXge69hKD8nTuT7xjCT.png?type=default&r=ben" width="356" alt="Nafish Nobel's Dev Card"/></a>
 
 
 <picture>
