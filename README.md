@@ -23,7 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nafish-Nobel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
 
 
 <picture>
