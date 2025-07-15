@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# 💫 About Me
-🔭 I’m currently working as a Full-Stack Web Developer.
+## 💫 About Me:
+I'm a passionate Full-Stack Web Developer specializing in building scalable web applications with modern technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs. Constantly learning and exploring new tools and frameworks to stay updated in this fast-evolving field.
 
 ---
 
