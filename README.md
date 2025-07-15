@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Nafish-Nobel/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Nafish-Nobel/count.svg?"/>
 </div>
 
 ###
