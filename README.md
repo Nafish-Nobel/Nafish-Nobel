@@ -19,7 +19,7 @@ I'm a passionate Full-Stack Web Developer specializing in building scalable web 
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nobel15_11651)
 [![Codeforces](https://img.shields.io/badge/Codeforces-nobel15--11651-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/nobel15-11651)
-[![LeetCode](https://img.shields.io/badge/LeetCode-nobel15--11651-yellow?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nobel15-11651/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nafish--nobel-yellow?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nafish-nobel)
 [![Medium](https://img.shields.io/badge/Medium-nafishnobel-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nafishnobel)
 [![dev.to](https://img.shields.io/badge/dev.to-nafishnobel-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nafishnobel)
 
